@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Talal Ali Shams  
 
-<!--
-**talalalis/talalalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Computer Science student | 💻 Passionate about Software Development & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📍 Based in Islamabad, Pakistan  
+- 🎓 A-Levels student (CS, Physics, Math)  
+- 🧑‍💻 Internships: Software Development and Data Science @ NUST University
+- 🔭 Interested in: Artificial Intelligence, Machine Learning, Software Engineering  
+- 🌱 Learning to build impactful projects that solve real-world problems  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: talalalishasm@gmail.com    
+- 💻 GitHub: [github.com/talalalis](https://github.com/talalalis)  
+
+---
+
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
