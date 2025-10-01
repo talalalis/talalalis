@@ -13,6 +13,12 @@
 
 ---
 
+## 📂 Featured Projects
+- 🔹 [Simple Calculator](https://github.com/talalalis/Calculator) –  Made in Python
+- 🔹 [Stack](https://github.com/talalalis/Stack) – Lists in python used as a stack with Push And Pop Subroutines 
+
+---
+
 ## 📫 Connect With Me
 - 📧 Email: talalalishams@gmail.com    
 - 💻 GitHub: [github.com/talalalis](https://github.com/talalalis)  
