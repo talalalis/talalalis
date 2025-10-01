@@ -14,7 +14,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: talalalishasm@gmail.com    
+- 📧 Email: talalalishams@gmail.com    
 - 💻 GitHub: [github.com/talalalis](https://github.com/talalalis)  
 
 ---
